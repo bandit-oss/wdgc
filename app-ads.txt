@@ -1007,3 +1007,4 @@ zeta.com, 591, RESELLER
 zmaticoo.com, 113451, RESELLER
 zmaticoo.com, 114386, DIRECT
 zmaticoo.com, 96f64b0d1f09029f55a2bc7f74e916c2, DIRECT
+google.com, pub-8705532830056794, DIRECT, f08c47fec0942fa0
